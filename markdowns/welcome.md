@@ -1,5 +1,5 @@
 # Advent of Code 2017 Solutions
-## Day 1
+## Day 1 - Inverse Captcha
 
 ### Problem
 > You're standing in a room with "digitization quarantine" written in LEDs along one wall. The only door is locked, but it includes a small interface. "Restricted Area - Strictly No Digitized Users Allowed."
