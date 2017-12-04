@@ -17,5 +17,8 @@ For example:
 ### Solution
 
 ```javascript runnable
-console.log('Hello World!');
+const input = "41234"
+const circularInput = `${input}${input.charAt(0)}`
+const count = circularInput.length
+const inverseCaptcha = 0
 ```
